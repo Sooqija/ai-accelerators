@@ -39,7 +39,7 @@ Examples.
 ```
 
 ```bash
-./conv.exe 
+./conv.exe 1024 3 16
 ```
 
 # VScode Script
